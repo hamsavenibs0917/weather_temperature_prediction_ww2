@@ -40,3 +40,6 @@ After running, open the local URL shown in the terminal (usually http://localhos
 ## Notes
 - The notebook drops non-useful columns and handles missing values in Precip Type.
 - The Streamlit app trains a Random Forest model and allows interactive predictions.
+
+## Project link
+- https://weathertemperaturepredictionww2.streamlit.app/
